@@ -10,3 +10,7 @@
 - Git Nedir ? 
 
 <img src="https://yetkingencler.com/wp-content/uploads/2021/07/YetGenLogo.png"> 
+
+
+- https://rahuldkjain.github.io/gh-profile-readme-generator/ bu link ile github profilini oluşturabilirsin
+- 
