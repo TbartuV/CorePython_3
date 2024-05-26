@@ -7,6 +7,6 @@
 
 - 1 hastagh en büyük başlık , 2 hastagh bir alt başlık gibi gibi gidiyor. 
 - Tire işareti de açıklama gibi. 
--Git Nedir ? 
+- Git Nedir ? 
 
 <img src="https://yetkingencler.com/wp-content/uploads/2021/07/YetGenLogo.png"> 
